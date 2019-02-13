@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0604EC3D-3B94-44FB-A343-F83623AE9CBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameOfLifeConsole/Program.cs">
+    <Files>
+      <File FileName="GameOfLifeConsole/Program.cs" Line="1" Column="1" />
+      <File FileName="GameOfLifeConsole/GameOfLife.cs" Line="278" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameOfLifeConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
